@@ -1,0 +1,19 @@
+{
+  "name": "cl.rmd.cordova.dialoggps",
+  "version": "0.0.2",
+  "description": "Plugin for phonegap/cordova to display a dialog and redirect to GPS settings when the GPS is disable. to Check if GPS enabled on iOS and Android",
+  "cordova": {
+    "id": "mx.ferreyra.callnumber",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ]
+}
+
